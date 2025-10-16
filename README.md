@@ -95,8 +95,11 @@ https://infosys-intern-llm.onrender.com
 ## 👨‍💻 Contributing
 
 1.Fork the repo
+
 2.Create a branch: git checkout -b feature/my-feature
+
 3.Commit changes: git commit -m "Add new feature"
+
 4.Push to branch: git push origin feature/my-feature
 
 ---
